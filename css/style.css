@@ -16,3 +16,10 @@
     background-color:#eed;
     height: auto;
 }
+.imge{
+    width: 180px;
+    height: 180px;
+    border: 2px dashed turquoise;
+    margin-bottom: 8px;
+    margin-left: 0px;
+}
