@@ -1,6 +1,6 @@
 .bdr{
     height: 30px;
-    border: 2px dotted #eee;
+    border: 2px dotted orange;
     margin-top: 20px;
     margin-bottom: 10px;
     
@@ -15,11 +15,11 @@
 .arow{
     background-color:#eed;
     height: auto;
+    padding-top: 8px;
 }
 .imge{
-    width: 180px;
-    height: 180px;
-    border: 2px dashed turquoise;
+    width: 168px;
+    height: 168px;
+    border: 2px dashed red;
     margin-bottom: 8px;
-    margin-left: 0px;
 }
