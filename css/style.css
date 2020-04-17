@@ -6,14 +6,13 @@
     
 }
 .container-fluid{
-    text-align: center;
     color: orange;
     font-size: 20px;
     text-transform: capitalize;
 
 }
 .arow{
-    background-color:#eed;
+    background-color:#eea;
     height: auto;
     padding-top: 8px;
 }
